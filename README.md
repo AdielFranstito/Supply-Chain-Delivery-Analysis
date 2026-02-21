@@ -68,7 +68,8 @@ The dataset was cleaned and prepared before visualization and KPI modeling.
 ---
 
 ## Dashboard Preview
-(Screenshot of the Power BI dashboard should be inserted here)
+<img width="1425" height="739" alt="image" src="https://github.com/user-attachments/assets/7c38ea38-e0f0-4cfa-b5fe-e46b16ad465a" />
+
 
 ---
 
