@@ -73,20 +73,6 @@ The dataset was cleaned and prepared before visualization and KPI modeling.
 
 ---
 
-## Project Structure
-Supply-Chain-Delivery-Analysis/
-│
-├── README.md
-├── data/
-│ └── sample_dataset.csv
-├── sql/
-│ └── data_cleaning_queries.sql
-├── powerbi/
-│ └── dashboard_screenshot.png
-└── documentation/
-└── project_summary.pdf
-
----
 
 ## Project Outcome
 This project demonstrates end-to-end analytical capability:
