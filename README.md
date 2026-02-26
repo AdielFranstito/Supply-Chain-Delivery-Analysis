@@ -68,7 +68,7 @@ The dataset was cleaned and prepared before visualization and KPI modeling.
 ---
 
 ## Dashboard Preview
-<img width="1425" height="739" alt="image" src="https://github.com/user-attachments/assets/7c38ea38-e0f0-4cfa-b5fe-e46b16ad465a" />
+[<img width="1425" height="739" alt="image" src="https://github.com/user-attachments/assets/7c38ea38-e0f0-4cfa-b5fe-e46b16ad465a" />](https://github.com/AdielFranstito/Supply-Chain-Delivery-Analysis/blob/main/powerbi/dashboard_preview.png)
 
 
 ---
